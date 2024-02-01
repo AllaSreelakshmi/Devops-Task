@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t devops .
+docker build -t task .
